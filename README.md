@@ -1,5 +1,3 @@
-[🇺🇦 Українська](README.uk.md)
-
 # Handmade Jewelry
 
 ## Project name
